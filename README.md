@@ -55,3 +55,4 @@ game.play_game(query_player1, alpha_beta_player)
 
 Sources
 https://github.com/aimacode/aima-python
+https://www.geeksforgeeks.org/python-tkinter-tutorial/?ref=outindfooter
